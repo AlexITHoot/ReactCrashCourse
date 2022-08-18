@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    background: rgb(116, 6, 39);
+    .logo{
+        display: flex;
+        font-size: 25px;
+        font-weight: 700;
+        color: #fff;
+        text-decoration: none;      
+    }
+    nav{
+        a{
+            color: rgb(253, 200, 200);
+        }
+    }
+}
